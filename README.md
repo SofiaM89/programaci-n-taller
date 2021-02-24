@@ -1,4 +1,4 @@
-#TALLER DE GITHUB
+# TALLER PROGRAMACIÓN
 **Febrero 24**   
 Semana de la mujer y la niña en la ciencia
 -Wa a aprender
