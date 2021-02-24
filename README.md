@@ -1,9 +1,9 @@
 # TALLER PROGRAMACIÓN
-**Febrero 24**   
+**Febrero 24** 
 Semana de la mujer y la niña en la ciencia
--Wa a aprender
--Hi
-
+## Contenido
+- Wa a aprender
+- Hola
 
 - Wa a apr
 ### Contenido 2
